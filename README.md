@@ -3,7 +3,9 @@ Web application that shows a number of path finding algorithms: breadth-first, D
 One can choose the algorithm to run using the drop-down list and add a sparse maze using the button. "Clear Search" removes the shortest path and the visited cells. "Clear Grid" removes shortest path, visited cells, and the sparse maze. The yellow cells indicate the shortest path, black cells represents walls, and the salmon colored cells represent the visited cells.
 
 ## Screenshots ##
-<img src="ProjectShots/vis_1.PNG" width=100 />
+<img src="ProjectShots/vis_1.PNG" width=500 />
+<img src="ProjectShots/vis_2.PNG" width=500 />
+<img src="ProjectShots/vis_3.PNG" width=500 />
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

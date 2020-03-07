@@ -1,0 +1,33 @@
+.grid {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.btnDown {
+  background-color: blue;
+}
+
+.page-header {
+  height: 50px;
+  width: 100%;
+  background-color: teal;
+  color: white;
+  margin-bottom: 10px;
+  text-align: left;
+  padding: 10px;
+}
+
+/*Buttons (i.e. 'CLEAR' and 'ALGORITHMS')*/
+
+.btn-sp {
+  background-color: steelblue;
+  margin-right: 5px;
+}
+
+.clear-grid-btn {
+  margin-right: 10px;
+  /* display: block;
+  margin: auto;
+  margin-top: 25px;
+  */
+}
